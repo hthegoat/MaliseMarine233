@@ -1,6 +1,6 @@
 <template>
     <footer class="px-4 py-12 mx-auto max-w-7xl">
-  <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-12 lg:gap-20">
+  <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-2 lg:grid-cols-2 lg:gap-2">
     <div class="col-span-3">
       <a href="/" class="
               text-lg
